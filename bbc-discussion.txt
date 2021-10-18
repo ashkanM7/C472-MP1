@@ -1,0 +1,3 @@
+Both recall and precision have the same importantce in this dataset hence F1 measure would be the best suited metric. We want to decrease the false positives and false negatives as much as possible.  
+The performnce of the model was different and actually the best result was obtained by smoothing value of 0.0001.  
+The same models did not produce the same result. The first reason is that in the test_train slpit function None value was chosen for random-state parameter which generates new instances of train and test datasets.
