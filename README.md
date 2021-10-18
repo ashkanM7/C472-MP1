@@ -1,4 +1,5 @@
 # C472-MP1
+https://github.com/ashkanM7/C472-MP1
 T1: twp .py files: 
 -p1.1_plot.py reads the files and generates the distribution plot
 -p1.1_clf.py implements the Naive Bayes classifier. 
